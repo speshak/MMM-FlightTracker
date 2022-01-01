@@ -17,7 +17,7 @@
     "mode-s-aircraft-store": "https://github.com/tbouron/mode-s-aircraft-store",
     "mode-s-decoder": "^1.0.1",
     "mode-s-demodulator": "^1.0.1",
-    "rtl-sdr": "https://github.com/tbouron/rtl-sdr"
+    "rtl-sdr": "https://github.com/charliegerard/rtl-sdr"
   },
   "devDependencies": {
     "electron-rebuild": "^1.8.6"
