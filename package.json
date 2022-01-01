@@ -17,6 +17,7 @@
     "mode-s-aircraft-store": "https://github.com/tbouron/mode-s-aircraft-store",
     "mode-s-decoder": "^1.0.1",
     "mode-s-demodulator": "^1.0.1",
+    "node-abi": "^3.5.0",
     "rtl-sdr": "https://github.com/charliegerard/rtl-sdr"
   },
   "devDependencies": {
